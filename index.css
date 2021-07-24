@@ -10,3 +10,8 @@ body {
   background-color: #2B2B2B;
   color: white;
 }
+
+ul {
+  display: table;
+  margin: 0 auto;
+}
